@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "391803407033",
+    "firebase_url": "https://test-dc36e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-dc36e",
+    "storage_bucket": "test-dc36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391803407033:android:e84d360bf2c9895dcba968",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgehQB0pHsgZsmHht76l9Qr6i-ngVgj4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
